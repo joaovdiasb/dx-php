@@ -1,5 +1,5 @@
 {
-  "name": "mercadopago/dx-php",
+  "name": "joaovdiasb/dx-php",
   "description": "Mercado Pago PHP SDK",
   "type": "library",
   "homepage": "https://github.com/mercadopago/dx-php",
@@ -33,7 +33,7 @@
     "phpmd/phpmd": "@stable",
     "squizlabs/php_codesniffer": "2.3.*",
     "sebastian/phpcpd": "*", 
-    "doctrine/orm": "~2.3",
+    "doctrine/orm": "^2.3",
     "vlucas/phpdotenv": "^2.5",
     "phpdocumentor/phpdocumentor": "^2.0"
   },
